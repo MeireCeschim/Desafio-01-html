@@ -27,5 +27,4 @@
 
 <h3><i>Minha Foto</i></h3>
 <img src="https://scontent.fbfh1-1.fna.fbcdn.net/v/t1.6435-9/102408758_3256222071068594_7478113035367913436_n.jpg?_nc_cat=103&ccb=1-4&_nc_sid=174925&_nc_ohc=c1cZHeI_zrcAX8-E-kn&tn=Z71m3pH6t6BAMlrF&_nc_ht=scontent.fbfh1-1.fna&oh=e754a5c911c56ba4f984813f9d1fc509&oe=61311707"> 
-<img src="../WhatsApp Image 2021-08-06 at 10.14.01.jpeg"> <!--teste-->
- 
+
