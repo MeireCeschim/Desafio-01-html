@@ -2,10 +2,10 @@
 
 <h2>Quem sou eu?</h2>
 
-<h3>Olá, me chamo Meire, tenho 41 anos, nasci em Catanduva SP e cresci na cidade de Piracicaba SP, meu sonho é ser um programador. Ajudar minha familia a conseguir um bom emprego. Também estou ansioso para poder trabalhar de casa e ter mais tempo com a minha família. Quero dar meu máximo no CodeClub para logo conseguir um emprego como Programadora.</h3>
+<h3>Olá, me chamo Meire, tenho 41 anos, nasci em Catanduva SP e cresci na cidade de Piracicaba SP, meu sonho é ser uma programadora. Ajudar minha familia a conseguir um bom emprego. Também estou ansioso para poder trabalhar de casa e ter mais tempo com a minha família. Quero dar meu máximo no CodeClub para logo conseguir um emprego como Programadora.</h3>
 
 <ul>
-<li>ajudar minha família</li>
+<li>Ajudar minha família</li>
 <li>Conseguir um emprego</li>
 <li>Comprar meu carro</li>
 <li>Ser valorizado no meu novo emprego</li>
