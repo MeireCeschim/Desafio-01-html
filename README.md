@@ -1,30 +1,70 @@
-<h1>Olá, eu sou a Meire</h1>
 
-<h2>Quem sou eu?</h2>
 
-<h3>Olá, me chamo Meire, tenho 41 anos, nasci em Catanduva SP e cresci na cidade de Piracicaba SP, meu sonho é ser uma programadora. Ajudar minha familia a conseguir um bom emprego. Também estou ansioso para poder trabalhar de casa e ter mais tempo com a minha família. Quero dar meu máximo no CodeClub para logo conseguir um emprego como Programadora.</h3>
+<code><img height="70" align="right" src="./assets/codeclub.jpeg"></code>
 
-<ul>
-<li>Ajudar minha família</li>
-<li>Conseguir um emprego</li>
-<li>Comprar meu carro</li>
-<li>Ser valorizado no meu novo emprego</li>
-<li>Viajar</li>
-<li>Comprar minha casa</li>
-<li>Amo tecnologia</li>
-</ul>
 
-<a href="https://www.facebook.com/meireceschim" target="-blank">MEU FACEBOOK</a>
+<br><br>
+<p align="right">1º Desafio-html do Curso CodeClub</p> 
+<p align='right'>Trainer/Founder: <i>Rodolfo Mori</I></p>
+<p>
+<a href="https://www.instagram.com/dolfo.mori">
+<img align="right" alt="icone do instagram uma camera dentro de um quadrado" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/rodolfomori/">
+<img align="right" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+</p>
+<br>
 
-<h2>Pessoas que eu gostaria que estivesse no CodeClub</h2>
 
-<ol>
-<li>Meu esposo</li>
-<li>Meu sobrinho</li>
-<li>Luan</li>
-<li>Christiane</li>
-</ol>
 
-<h3><i>Minha Foto</i></h3>
-<img src="https://scontent.fbfh1-1.fna.fbcdn.net/v/t1.6435-9/102408758_3256222071068594_7478113035367913436_n.jpg?_nc_cat=103&ccb=1-4&_nc_sid=174925&_nc_ohc=c1cZHeI_zrcAX8-E-kn&tn=Z71m3pH6t6BAMlrF&_nc_ht=scontent.fbfh1-1.fna&oh=e754a5c911c56ba4f984813f9d1fc509&oe=61311707"> 
 
+# 👩‍💻 `Quem Sou Eu` 
+ 
+> Projeto executado 
+> 
+> no curso do CodeClube,
+> 
+> para aprimoramento 
+> 
+> do Html e CSS.
+
+<br><br>
+
+# 📌 `Ajustes e melhorias`
+
+O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+
+> - [x] Criação HTML
+> - [x] Criação CSS
+> - [ ] Atualização Layout
+> - [ ] Finalização
+
+<br><br>
+
+#
+
+<p align="right"><b>>>>>>By<<<<<</b></p>
+<table align="right">
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/89756578?s=400&u=3fe7c1530d59282b03143899373eeeb5f1dc3953&v=4" width="100px;" alt="Foto da Meire Ceschim no GitHub"/><br>
+        <sub>
+          <b>MeireCeschim</b>
+        </sub>
+      </a>
+  </tr>
+</table>
+    
+<br><br><br><br><br><br>
+
+
+
+#
+
+
+<p align="right"><b>❤TECHNOLOGY❤</b></p><br>
+
+
+<br><br>
