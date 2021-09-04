@@ -47,7 +47,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 
 <p align="right"><b>>>>>>By<<<<<</b></p>
-<table align="right">
+<div align="right">
  <tr>
     <td align="center">
       <a href="#">
@@ -57,7 +57,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
         </sub>
       </a>
  </tr>
- </table>
+ </div>
     
 <br><br><br><br><br><br>
 
