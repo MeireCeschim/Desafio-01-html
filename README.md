@@ -42,11 +42,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 <br><br>
 
-#
+
+# 📌 `Colaboradora`
+
 
 <p align="right"><b>>>>>>By<<<<<</b></p>
-<table align="right">
-  <tr>
+<div align="right">
+ <tr>
     <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/89756578?s=400&u=3fe7c1530d59282b03143899373eeeb5f1dc3953&v=4" width="100px;" alt="Foto da Meire Ceschim no GitHub"/><br>
@@ -54,14 +56,14 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
           <b>MeireCeschim</b>
         </sub>
       </a>
-  </tr>
-</table>
+ </tr>
+ </div>
     
 <br><br><br><br><br><br>
 
 
 
-#
+# 📌 `Tech`
 
 
 <p align="right"><b>❤TECHNOLOGY❤</b></p><br>
